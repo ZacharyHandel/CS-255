@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643741721 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\first project 1-27-22\mydayproject\main.cpp
+	<iostream>
+	"dayType.h"
+
+1643741049 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\first project 1-27-22\mydayproject\daytype.h
+	<string>
+
+1643311707 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\first project 1-27-22\mydayproject\daytype.cpp
+	"dayType.h"
+	<string>
+

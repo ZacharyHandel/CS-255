@@ -1,0 +1,12 @@
+Fran
+Tarkenton
+22 14 196 3 1
+Brett
+Favre
+30 22 254 3 2
+Randall
+Cunningham
+25 18 185 2 0
+Daunte
+Cullpepper
+27 20 203 3 0

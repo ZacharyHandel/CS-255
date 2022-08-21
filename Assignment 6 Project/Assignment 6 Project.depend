@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645298242 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\assignment 6 project\main.cpp
+	<iostream>
+	<fstream>
+	"BoardGame.h"
+
+1645298628 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\assignment 6 project\boardgame.h
+	<iostream>
+
+1645298828 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\assignment 6 project\boardgame.cpp
+	"BoardGame.h"
+	<iomanip>
+	<fstream>
+	<iostream>
+

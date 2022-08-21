@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643742469 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\illustrate project 2-1\illustrateimp.cpp
+	<iostream>
+	"illustrate.h"
+
+1643862247 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\illustrate project 2-1\illustrate.h
+
+1643742469 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\illustrate project 2-1\main.cpp
+	<iostream>
+	"illustrate.h"
+
+1584201820 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\illustrate project 2-1\illustrate\main.cpp
+	<iostream>
+

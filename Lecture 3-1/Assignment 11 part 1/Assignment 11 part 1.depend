@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648144697 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\assignment 11 part 1\main.cpp
+	<iostream>
+	"Stack.h"
+
+1648144103 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\assignment 11 part 1\stack.h
+
+1648144753 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\assignment 11 part 1\stack.cpp
+	"Stack.h"
+	<iostream>
+

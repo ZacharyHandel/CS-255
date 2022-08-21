@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1649224600 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\queue project codeblocks edition\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1649224428 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\queue project codeblocks edition\queue.h
+	"stringNode.h"
+	<iostream>
+
+1649224457 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\queue project codeblocks edition\stringnode.h
+	<iostream>
+
+1649224456 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\queue project codeblocks edition\stringnode.cpp
+	"stringNode.h"
+
+1649224629 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\queue project codeblocks edition\main.cpp
+	<iostream>
+	"Queue.h"
+

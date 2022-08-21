@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650504345 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\4-7 lecture project binary search tree\binarysearchtree.cpp
+	"BinarySearchTree.h"
+
+1650391017 c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\4-7 lecture project binary search tree\binarysearchtree.h
+	<iostream>
+
+1650504227 source:c:\users\zacha\desktop\una school work 2021-2022\c++ 2\lecture 3-1\4-7 lecture project binary search tree\main.cpp
+	<iostream>
+	<ctime>
+	"BinarySearchTree.h"
+

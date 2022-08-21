@@ -1,0 +1,102 @@
+Customer #: 1
+Arrival: 2
+Departure: 3
+Service: 1
+Process: 1
+Wait Time: 0
+
+Customer #: 2
+Arrival: 2
+Departure: 6
+Service: 3
+Process: 3
+Wait Time: 1
+
+Customer #: 3
+Arrival: 2
+Departure: 21
+Service: 15
+Process: 15
+Wait Time: 4
+
+Customer #: 4
+Arrival: 2
+Departure: 29
+Service: 8
+Process: 8
+Wait Time: 19
+
+Customer #: 5
+Arrival: 4
+Departure: 30
+Service: 1
+Process: 1
+Wait Time: 25
+
+Customer #: 6
+Arrival: 7
+Departure: 31
+Service: 1
+Process: 1
+Wait Time: 23
+
+Customer #: 7
+Arrival: 26
+Departure: 32
+Service: 1
+Process: 1
+Wait Time: 5
+
+Customer #: 8
+Arrival: 30
+Departure: 33
+Service: 1
+Process: 1
+Wait Time: 2
+
+Customer #: 9
+Arrival: 31
+Departure: 34
+Service: 1
+Process: 1
+Wait Time: 2
+
+Customer #: 10
+Arrival: 33
+Departure: 35
+Service: 1
+Process: 1
+Wait Time: 1
+
+Customer #: 11
+Arrival: 37
+Departure: 38
+Service: 1
+Process: 1
+Wait Time: 0
+
+Customer #: 12
+Arrival: 40
+Departure: 41
+Service: 1
+Process: 1
+Wait Time: 0
+
+Customer #: 13
+Arrival: 40
+Departure: 56
+Service: 15
+Process: 15
+Wait Time: 1
+
+Customer #: 14
+Arrival: 41
+Departure: 57
+Service: 1
+Process: 1
+Wait Time: 15
+
+
+The Number Of Customers That Were Rejected: 33
+The Number Of Customers That Were Accepted: 14
+The Average Wait Time Was: 7
